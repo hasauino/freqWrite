@@ -1,4 +1,4 @@
-#include "freqWrite.h"
+#include "/Users/hassan/Desktop/freqWrite/freqWrite.h"
 
 Frequency freq;
 
