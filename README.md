@@ -1,5 +1,5 @@
 # freqWrite
-Arduino library for generating variable frequency PWM of fixed 50% duty cycle
+Arduino library for generating variable frequency PWM of fixed 50% duty cycle (square wave)
 
 It currently supports Arduino Mega only.
 
