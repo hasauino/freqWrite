@@ -4,10 +4,10 @@
 
 #ifndef FreqWrite_h 
 #define FreqWrite_h 
-#endif
+
 #if defined(ARDUINO) && ARDUINO >= 100
 #include "Arduino.h"
-
+#endif
 
 
 
