@@ -7,7 +7,7 @@
 #endif
 #if defined(ARDUINO) && ARDUINO >= 100
 #include "Arduino.h"
-#endif
+
 
 
 
@@ -25,3 +25,4 @@ public:
   void write(float hz);//Generate a 50% duty cycle PWM, with a frequency between 0.5 Hz - 1 MHz
   
   };//class
+#endif
